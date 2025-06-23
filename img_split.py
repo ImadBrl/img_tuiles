@@ -53,4 +53,4 @@ def tile_image_with_coords(image_path, tile_size=640, output_dir="tiles"):
 #print(f"Tuiles RGB + matrices de coordonnées enregistrées dans {output_dir}")
 
 # Utilisation
-tile_image_with_coords("C:/Users/imad-/Desktop/Sat det/code/test/img.tif", tile_size=640, output_dir="output_til")
+tile_image_with_coords("img.tif", tile_size=640, output_dir="output_til")
